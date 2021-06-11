@@ -1,1 +1,1 @@
-# JR_Telegram_Bot
+# school.manager.bot
